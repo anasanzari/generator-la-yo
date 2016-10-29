@@ -1,0 +1,22 @@
+{
+  "name": "generator-la-yo",
+  "version": "1.0.0",
+  "description": "Laravel+Angular Yeoman Generator",
+  "files": [
+    "generators/app",
+    "generators/controller",
+    "generators/directive",
+    "generators/resource",
+    "generators/ervice",
+    "generators/filter"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anas Ansari",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+}
